@@ -36,11 +36,16 @@ add your entry in a place that preserves an A-Z title sorting.
 **Category**: engineering
 **Recommended by**: @cunjur
 **Description**:
-A practical reference book on engineering management that provides frameworks and approaches for solving complex challenges in high-growth technology companies. 
+A practical reference book on engineering management that provides frameworks and approaches for solving complex challenges in high-growth technology companies.
 
 
 ### Software Engineering at Google
 **Category**: engineering
 **Recommended by**: @jmelahman
 **Description**: The Software Engineering at Google book (“SWE Book”) is not about programming, per se, but about the engineering practices utilized at Google to make their codebase sustainable and healthy. Free download from [abseil.io](https://abseil.io/resources/swe-book).
+
+### A Philosophy of Software Design
+**Category**: application-design
+**Recommended by**: @jmelahman
+**Description**: A Philosophy of Software Design by John Ousterhout emphasizes simplicity in software design, advocating for modularity, clear abstractions, and managing complexity to create maintainable and robust systems. Available on [Amazon](https://www.amazon.com/dp/173210221X).
 
